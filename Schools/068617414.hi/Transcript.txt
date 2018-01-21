@@ -1,0 +1,3 @@
+Course Code		Mark	Passed	Absences	Late
+ICS3U1		100	Passed	3	2
+ENG3U1		89	Passed	3	4
